@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+![](https://media.giphy.com/media/xUPJPq18YHwSFidW8g/giphy.gif)
 
 <!--
 **rain-kun/rain-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ashutosh vishu yadav GitHub stats](https://github-readme-stats.vercel.app/api?username=rain-kun&count_private=true&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain-kun&layout=compact&show_icons=true&theme=tokyonight)
