@@ -1,5 +1,7 @@
-### Hi there 👋 
-![](https://media.giphy.com/media/xUPJPq18YHwSFidW8g/giphy.gif)
+## Namaste 🙏
+
+<img alt="hi" src="https://media.giphy.com/media/xUPJPq18YHwSFidW8g/giphy.gif" width="101" height="101" />
+<!--
 
 <!--
 **rain-kun/rain-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
