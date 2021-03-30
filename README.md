@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center">
-  <img alt="itch.io" src="https://github-readme-stats.vercel.app/api?username=rain-kun&count_private=true&show_icons=true&theme=tokyonight" width="800" height="400" />
+  <img alt="itch.io" src="https://github-readme-stats.vercel.app/api?username=rain-kun&count_private=true&show_icons=true&theme=tokyonight" width="400" height="200" />
+  <img alt="itch.io" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain-kun&layout=compact&show_icons=true&theme=tokyonight" width="400" height="200" />
 </p>
-<!--
-![rain kun GitHub stats](https://github-readme-stats.vercel.app/api?username=rain-kun&count_private=true&show_icons=true&theme=tokyonight)
+
+<!--![rain kun GitHub stats](https://github-readme-stats.vercel.app/api?username=rain-kun&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain-kun&layout=compact&show_icons=true&theme=tokyonight) -->
