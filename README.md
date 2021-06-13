@@ -9,7 +9,7 @@ A self taught Game and Full-stack web developer from India.
 **rain-kun/rain-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a document designing website (going to be open source in future)
+- 🔭 I’m currently working on a voice automated system for OS (going to be open source in future)
 - 🌱 I’m currently interested in learning ![procedural programming](https://github.com/rain-kun/procedural-life) and machine learning. 
 - 📫 How to reach me: ![here](https://github.com/rain-kun/rain-kun/issues) 
 <!--- 😄 Pronouns: ...
