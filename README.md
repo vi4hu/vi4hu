@@ -1,6 +1,6 @@
 ## Namaste, I am Ashutosh! 🙏
 
-<img alt="spounchbob" src="https://media.giphy.com/media/xUPJPq18YHwSFidW8g/giphy.gif" width="101" height="101" />
+<!-- <img alt="spounchbob" src="https://media.giphy.com/media/xUPJPq18YHwSFidW8g/giphy.gif" width="101" height="101" /> -->
 
 A self taught Game and Full-stack web developer from India. 
 
@@ -9,9 +9,9 @@ A self taught Game and Full-stack web developer from India.
 **rain-kun/rain-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a voice automated system for OS (going to be open source in future)
+- 🔭 I’m currently working on a system to voice automate the OS (going to be open source in future)
 - 🌱 I’m currently interested in learning ![procedural programming](https://github.com/rain-kun/procedural-life) and machine learning. 
-- 📫 How to reach me: ![here](https://github.com/rain-kun/rain-kun/issues) 
+- 📫 How to reach me: ![here](https://github.com/rain-kun/rain-kun/issues) or rain.reachme@protonmail.com
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
