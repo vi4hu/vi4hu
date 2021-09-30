@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/rainx_cat/"><img alt="itch.io" src="https://github.com/rain-kun/rain-kun/blob/main/elements/instagram.png" width="30" height="30" /></a>
 </p>
 <br>
-<p align="center">
-  <img alt="itch.io" src="https://github-readme-stats.vercel.app/api?username=rain-kun&count_private=true&show_icons=true&theme=tokyonight" width="400" height="200" />
+<!-- <p align="center">
+  <img alt="itch.io" src="https://github-readme-stats.vercel.app/api?username=rain-kun&count_private=true&show_icons=true&theme=tokyonight" width="400" height="200" /> -->
 <!--   <img alt="itch.io" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain-kun&layout=compact&show_icons=true&theme=tokyonight" width="400" height="200" /> -->
 </p>
 
