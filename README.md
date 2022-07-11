@@ -10,28 +10,28 @@ A self taught Game and Full-stack web developer from India.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Neuenable(NPM Package for neumorphism styling) and a system to voice automate the OS.
-- 🌱 I’m currently interested in learning ![procedural programming](https://github.com/rain-kun/procedural-life) and Web Technologies.
-- 📫 How to reach me: ![here](https://github.com/rain-kun/rain-kun/issues) or rain.reachme@protonmail.com
+- 🌱 I’m currently interested in learning ![procedural programming](https://github.com/vi4hu/procedural-life) and Web Technologies.
+- 📫 How to reach me: ![here](https://github.com/vi4hu/vi4hu/issues) or rain.reachme@protonmail.com
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 <h4 align="center">Play my indie Games</h4>
 <p align="center">
-  <a align="center" href="https://rainxdev.itch.io/"><img alt="itch.io" src="https://github.com/rain-kun/rain-kun/blob/main/elements/itch.io.png"    width="30" height="30" /></a>
+  <a align="center" href="https://rainxdev.itch.io/"><img alt="itch.io" src="https://github.com/vi4hu/vi4hu/blob/main/elements/itch.io.png"    width="30" height="30" /></a>
 </p>
 <h4 align="center">look for me here</h4>
 <p align="center">
-  <a href="https://twitter.com/rainxcat1/"><img alt="twitter" src="https://github.com/rain-kun/rain-kun/blob/main/elements/twitter.png" width="30" height="30" /></a>
-  <a href="https://www.youtube.com/channel/UCZl5Gy9LmY6B2XQtL8QeKvQ"><img alt="twitter" src="https://github.com/rain-kun/rain-kun/blob/main/elements/youtube.png" width="30" height="30" /></a>
-  <a href="https://www.instagram.com/rainx_cat/"><img alt="itch.io" src="https://github.com/rain-kun/rain-kun/blob/main/elements/instagram.png" width="30" height="30" /></a>
-  <a href="https://stackoverflow.com/users/13508049/rain/"><img alt="stackoverflow" src="https://github.com/rain-kun/rain-kun/blob/main/elements/stackoverflow.png" width="30" height="30" /></a>
+  <a href="https://twitter.com/rainxcat1/"><img alt="twitter" src="https://github.com/vi4hu/vi4hu/blob/main/elements/twitter.png" width="30" height="30" /></a>
+  <a href="https://www.youtube.com/channel/UCZl5Gy9LmY6B2XQtL8QeKvQ"><img alt="twitter" src="https://github.com/vi4hu/vi4hu/blob/main/elements/youtube.png" width="30" height="30" /></a>
+  <a href="https://www.instagram.com/rainx_cat/"><img alt="itch.io" src="https://github.com/vi4hu/vi4hu/blob/main/elements/instagram.png" width="30" height="30" /></a>
+  <a href="https://stackoverflow.com/users/13508049/rain/"><img alt="stackoverflow" src="https://github.com/vi4hu/vi4hu/blob/main/elements/stackoverflow.png" width="30" height="30" /></a>
 </p>
 <br>
 <!-- <p align="center">
-  <img alt="itch.io" src="https://github-readme-stats.vercel.app/api?username=rain-kun&count_private=true&show_icons=true&theme=tokyonight" width="400" height="200" /> -->
-<!--   <img alt="itch.io" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain-kun&layout=compact&show_icons=true&theme=tokyonight" width="400" height="200" /> -->
+  <img alt="itch.io" src="https://github-readme-stats.vercel.app/api?username=vi4hu&count_private=true&show_icons=true&theme=tokyonight" width="400" height="200" /> -->
+<!--   <img alt="itch.io" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi4hu&layout=compact&show_icons=true&theme=tokyonight" width="400" height="200" /> -->
 </p>
 
-<!--![rain kun GitHub stats](https://github-readme-stats.vercel.app/api?username=rain-kun&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain-kun&layout=compact&show_icons=true&theme=tokyonight) -->
+<!--![rain kun GitHub stats](https://github-readme-stats.vercel.app/api?username=vi4hu&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi4hu&layout=compact&show_icons=true&theme=tokyonight) -->
