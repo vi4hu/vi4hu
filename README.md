@@ -9,7 +9,7 @@ A self taught Game and Full-stack web developer from India.
 **rain-kun/rain-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Neuenable(NPM Package for neumorphism styling) and a system to voice automate the OS.
+- 🔭 I’m currently working on a 2d game mechanics.
 - 🌱 I’m currently interested in learning ![procedural programming](https://github.com/vi4hu/procedural-life) and Web Technologies.
 - 📫 How to reach me: ![here](https://github.com/vi4hu/vi4hu/issues) or rain.reachme@protonmail.com
 <!--- 😄 Pronouns: ...
