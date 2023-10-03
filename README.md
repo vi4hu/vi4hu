@@ -18,8 +18,8 @@
 <p align="center">I'm a Backend and self taught Game developer from India.</p>
 
 <!-- - 🔭 I’m currently working on game mechanics. -->
-- 🌱 I’m currently interested in learning procedural programming and Web Technologies (AWS and Nextjs).
-- 📫 How to reach me: ![here](https://github.com/vi4hu/vi4hu/issues) or rain.reachme@protonmail.com
+- 🌱 I’m currently learning Nextjs
+- 📫 How to reach me: ![open a issue?](https://github.com/vi4hu/vi4hu/issues) or rain.reachme@protonmail.com
 
 <br />
 
