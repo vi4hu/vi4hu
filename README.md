@@ -59,10 +59,10 @@
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
-  <a href="https://github.com/vi4hu/godot_compass" align="left">
+  <a href="https://github.com/vi4hu/godot_compass" align="left" target="_blank">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vi4hu&repo=godot_compass&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/vi4hu/godot_health_bar_2d" align="right">
+  <a href="https://github.com/vi4hu/godot_health_bar_2d" align="right" target="_blank">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vi4hu&repo=godot_health_bar_2d&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
   </a>
 </div><br /><br /><br /><br /><br /><br /><br />
@@ -71,10 +71,10 @@
 
 
 <div width="100%" align="center">
-  <a href="https://github.com/vi4hu/neuenable" align="left">
+  <a href="https://github.com/vi4hu/neuenable" align="left" target="_blank">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vi4hu&repo=neuenable&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/vi4hu/godot_supplies" align="right">
+  <a href="https://github.com/vi4hu/godot_supplies" align="right" target="_blank">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vi4hu&repo=godot_supplies&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
   </a>
 </div><br /><br /><br /><br /><br /><br /><br />
