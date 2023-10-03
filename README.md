@@ -21,6 +21,8 @@
 - 🌱 I’m currently interested in learning procedural programming and Web Technologies (AWS and Nextjs).
 - 📫 How to reach me: ![here](https://github.com/vi4hu/vi4hu/issues) or rain.reachme@protonmail.com
 
+<br />
+
 <b>Skills and Technologies</b>
 
 <div align="left">
@@ -44,6 +46,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
 </div>
+<br /><br />
 
 <!--
 <b>GitHub Stat</b>
