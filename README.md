@@ -57,6 +57,7 @@
 </div>
 -->
 
+<!--
 <b>Top Repositories</b>
 <div width="100%" align="center">
   <a href="https://github.com/vi4hu/godot_compass" align="left" target="_blank">
@@ -78,7 +79,7 @@
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vi4hu&repo=godot_supplies&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
   </a>
 </div><br /><br /><br /><br /><br /><br /><br />
-
+-->
 <!--
 <h4 align="center">Play my indie Games</h4>
 <p align="center">
