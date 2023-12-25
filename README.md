@@ -1,7 +1,8 @@
+<!--
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4D03AQEC-_6i38jitw/profile-displayphoto-shrink_200_200/0/1610804662637?e=1701907200&v=beta&t=-t4iUOVT0_fJZ32JuoOEmJ7Aiu-E5Lg8Wd02BWJkinA" />
+<img height="200" src="https://media.licdn.com/dms/image/C4D03AQEC-_6i38jitw/profile-displayphoto-shrink_200_200/0/1610804662637?e=1701907200&v=beta&t=-t4iUOVT0_fJZ32JuoOEmJ7Aiu-E5Lg8Wd02BWJkinA" />
 </div>
-
+ -->
 <br/>
 
 <div align="center">
@@ -15,7 +16,7 @@
 
 <h2 align="center">Namaste, I am Ashutosh! 🙏</h2>
 
-<p align="center">I'm a Backend and self taught Game developer from India.</p>
+<p align="center">I'm a Backend and Game developer from India.</p>
 
 <!-- - 🔭 I’m currently working on game mechanics. -->
 - 🌱 I’m currently learning Nextjs
