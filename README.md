@@ -14,13 +14,14 @@
   </a>
 </div>
 
-<h2 align="center">Namaste, I am Ashutosh! 🙏</h2>
+<h2 align="center">Hello! I am Ashutosh 🙏</h2>
 
-<p align="center">I'm a Backend and Game developer from India.</p>
+<p align="center">I'm a self-taught Backend and Game developer from India.</p>
 
+**About me**
 <!-- - 🔭 I’m currently working on game mechanics. -->
-- 🌱 I’m currently learning Nextjs
-- 📫 How to reach me: ![open a issue?](https://github.com/vi4hu/vi4hu/issues) or rain.reachme@protonmail.com
+- 🌱 I’m currently learning [Nextjs](https://nextjs.org/) and [Terraform](https://www.terraform.io/)
+- 💬 Ask me about anything [here](https://github.com/vi4hu/vi4hu/issues)
 
 <br />
 
@@ -48,6 +49,20 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
 </div>
 <br /><br />
+
+![Vishu's GitHub stats](
+  https://github-readme-stats.vercel.app/api?username=vi4hu&hide=contribs,issues&show_icons=true&rank_icon=github&bg_color=0d1117&border_color=777&title_color=3fb950&icon_color=238636&text_color=fff
+)
+
+
+<!--
+Github theme
+&bg_color=0d1117&border_color=238636&title_color=fff&icon_color=238636&ring_color=3fb950&text_color=fff
+0d1117
+161b22
+3fb950
+238636
+-->
 
 <!--
 <b>GitHub Stat</b>
