@@ -20,7 +20,7 @@
 
 **About me**
 <!-- - 🔭 I’m currently working on game mechanics. -->
-- 🌱 I’m currently learning [Nextjs](https://nextjs.org/) and [Terraform](https://www.terraform.io/)
+- 🌱 I’m currently exploring [Nextjs](https://nextjs.org/) and [IaC](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 - 💬 Ask me about anything [here](https://github.com/vi4hu/vi4hu/issues)
 
 <br />
