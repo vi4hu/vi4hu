@@ -14,14 +14,13 @@
   </a>
 </div>
 
-<h2 align="center">Hello! I am Ashutosh 👋</h2>
+<h2 align="center">Hello! I am Vishu 👋</h2>
 
 <p align="center">I'm a self-taught Backend and Game developer from India.</p>
 
 **About me**
 <!-- - 🔭 I’m currently working on game mechanics. -->
-- 🌱 I’m currently exploring [Nextjs](https://nextjs.org/) and [IaC](https://en.wikipedia.org/wiki/Infrastructure_as_code)
-- 💬 Ask me about anything [here](https://github.com/vi4hu/vi4hu/issues)
+- 🌱 I am getting back to Game Development
 
 <br />
 
